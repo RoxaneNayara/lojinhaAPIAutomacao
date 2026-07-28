@@ -2,6 +2,9 @@
 
 Esse é um repositório que contém a automação de alguns testes de API Rest de um software denominado Lojinha. Os sub-tópicos abaixo descrevem algumas decisões tomadas na estruturação do projeto.
 
+> Projeto de estudo desenvolvido em 2022 e mantido como registro da minha evolução técnica.  
+> Para conhecer meu projeto atual de automação, acesse o [Playwright Automation Lab](https://github.com/RoxaneNayara/playwright-automation-lab).
+
 ## Tecnologias Utitlizadas
 
 - Java 
